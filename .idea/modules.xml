@@ -2,7 +2,11 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
+      <module fileurl="file://$PROJECT_DIR$/AlterDialog/AlterDialog.iml" filepath="$PROJECT_DIR$/AlterDialog/AlterDialog.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Calculadora/Calculadora.iml" filepath="$PROJECT_DIR$/Calculadora/Calculadora.iml" />
       <module fileurl="file://$PROJECT_DIR$/Computer/Computer.iml" filepath="$PROJECT_DIR$/Computer/Computer.iml" />
+      <module fileurl="file://$PROJECT_DIR$/SimuladorHipoteca/SimuladorHipoteca.iml" filepath="$PROJECT_DIR$/SimuladorHipoteca/SimuladorHipoteca.iml" />
+      <module fileurl="file://$PROJECT_DIR$/TextBox/TextBox.iml" filepath="$PROJECT_DIR$/TextBox/TextBox.iml" />
       <module fileurl="file://$PROJECT_DIR$/patrones.iml" filepath="$PROJECT_DIR$/patrones.iml" />
     </modules>
   </component>
